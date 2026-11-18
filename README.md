@@ -20,7 +20,7 @@ cd coding-assignment11
 Build Docker Image
 docker build -t coding-assignment11 .
 Run Docker Container
-docker run -d -p 7775:7775 --name shakovyc_ruslan_coding_assignment11 coding-assignment11
+docker run -d -p 7775:7775 --name shakovych_ruslan_coding_assignment11 coding-assignment11
 Open Application
 Navigate to:
 
@@ -28,7 +28,7 @@ http://localhost:7775
 Container Information
 Container Name:
 
-shakovyc_ruslan_coding_assignment11
+shakovych_ruslan_coding_assignment11
 
 Working Directory:
 
